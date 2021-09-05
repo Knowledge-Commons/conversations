@@ -3,6 +3,7 @@
 This is a wiki about Conversations.  Or maybe it _is_ conversations.  One of those. :-)
 
 Today, [[2021-09-01]], we're "doing wiki" on:
+
 - [[Graph Visualizations]]
 - a [[Torah View]] for wikis, and marginalia from medieval manuscripts
 - [[Riamir]]'s [[Meta Maps]]
@@ -16,4 +17,5 @@ Today, [[2021-09-01]], we're "doing wiki" on:
 - [[Utopian Ruins]]
 
 "People have a public life, a private life, and a secret life".
+
 - (GABRIEL GARCÍA MÁRQUEZ famously told his biographer Gerald Martin: “Everyone has three lives: a public life, a private life, and a secret life.”)
