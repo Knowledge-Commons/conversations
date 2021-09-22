@@ -11,7 +11,11 @@ There is a [[Sandbox]] page if you need to try stuff out.
 - [[Bill Anderson]]
 - [[Peter Kaminski]]
 - [[Riamir]]
-- [[Simon Grant]]
+- [[People/Simon Grant|Simon Grant]]
+
+## Concepts
+
+- [[Naming Chunking Linking]]
 
 ## Meeting Notes
 
