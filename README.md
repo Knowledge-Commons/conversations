@@ -2,6 +2,8 @@
 
 This is a wiki about Conversations.  Or maybe it _is_ conversations.  One of those. :-)
 
+There is a [[Sandbox]] page if you need to try stuff out.
+
 Today, [[2021-09-01]], we're "doing wiki" on:
 
 - [[Graph Visualizations]]
