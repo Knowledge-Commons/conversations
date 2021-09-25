@@ -15,7 +15,7 @@ There is a [[Sandbox]] page if you need to try stuff out.
 
 ## Concepts
 
-- [[Naming Chunking Linking]]
+- [[Chunking Naming Linking]]
 
 ## Meeting Notes
 
