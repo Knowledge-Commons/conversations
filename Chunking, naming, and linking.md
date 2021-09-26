@@ -1,8 +1,9 @@
 # Chunking, naming, and linking
 
-Pete likes to call this [[Chunking, Naming, Linking]].
+Pete likes to call this "Chunking, Naming, Linking", versus other ordering of the same words.
 
 ## 2021-09-05 "chunking, naming, and linking" notions.
+
 This page contains some preliminary thinking by [[Bill Anderson]].
 
 1. The ideas of "chunking, naming, and linking" are related to managing wiki contents, as well as information system architecture, design, and deployment. I have questions about each of these notions. These questions are also about [[classification]].
@@ -24,6 +25,7 @@ This page contains some preliminary thinking by [[Bill Anderson]].
   - linking on wikis and elsewhere: in order to link an item it needs a name, hence item 3, above. In the world-wide-web lands, links are represented by [[URIs URLs and URNs]].
 
 ## 2021-09-17 "wiki thoughts"
+
 Following up on some thoughts from [[Peter Kaminski]].
 
 1. Information organization on a wiki is focused on linking and chunking rather than classification. Change that.
