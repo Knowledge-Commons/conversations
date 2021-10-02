@@ -1,6 +1,6 @@
 # Chunking, naming, and linking
 
-Pete likes to call this "Chunking, Naming, Linking", versus other ordering of the same words.
+Pete likes to call this "Chunking, naming, linking", in that order. _(Why, Pete?)_
 
 ## 2021-09-05 "chunking, naming, and linking" notions.
 

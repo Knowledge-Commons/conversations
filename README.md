@@ -13,6 +13,10 @@ There is a [[Sandbox]] page if you need to try stuff out.
 - [[Riamir]]
 - [[People/Simon Grant|Simon Grant]]
 
+## Meetings
+
+- [[Meetings/Massive Wiki Wednesday (ANZ-Asia), 2021-09-28]]
+
 ## Concepts
 
 - [[Chunking, naming, and linking]]
