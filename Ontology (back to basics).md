@@ -16,7 +16,7 @@ And Kurt Cagle's compare/contrast of taxonomy and ontology:
 
 And lastly an older paper, with nothing particularly pretty, but a good survey of many types of ontology visualization, [Ontology Visualization Methods – A Survey](http://entrezneuron.googlecode.com/svn-history/r2/trunk/references/12-onto-vis-survey-final.pdf) (PDF) (2007)
 
-cf. [[Jacob_2003-OntologiesandtheSemanticWeb.png]]
+cf. [[images/Jacob_2003-OntologiesandtheSemanticWeb.png]]
 
 Related pages:
 - [[Wikis and knowledge structures]]
