@@ -26,6 +26,10 @@ There is a [[Sandbox]] page if you need to try stuff out.
 
 - [[Chunking, naming, and linking]]
 
+## Conversations
+
+- [[Conversations and Knowledge, Fast and Slow]]
+
 ## Meeting Notes
 
 - [[Massive Wiki Wednesday (US-EU), 2021-09-22]]
