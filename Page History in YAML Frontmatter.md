@@ -15,12 +15,14 @@ Sometimes, it's nice to keep a log of  _meaningful_ changes to a page, rather th
 
 For that purpose, we suggest a convention of keeping an array of page history entries in the [[YAML Frontmater]] of the page.
 
-To make this, type three dashes at the top of the page on the beginning line, then the page history entries (try to use the same indentation pattern, but if you don't, it's not the end of the world).  At the bottom, type three more dashes.  All of this comes before any other text or Markdown on the page.
+To make this, type three dashes at the top of the page on the beginning line, then the page history entries (try to use the correct indentation pattern, but if you don't, it's not the end of the world).  At the bottom, type three more dashes.  All of this comes before any other text or Markdown on the page.
 
 The first line:
+
 - page-history(colon)
 
 Each entry:
+
 - (space)(space)(dash)
 - (space)(space)(space)(space)author: Your Name Goes Here
 - (space)(space)(space)(space)date: yyyy-mm-dd
