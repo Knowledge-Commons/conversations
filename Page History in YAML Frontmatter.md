@@ -18,16 +18,13 @@ To make this, type three dashes at the top of the page on the beginning line, th
 
 Here's what it looks like (remember, this goes at the top of the page you're working on):
 
-```yaml
----
-page-history: 
-  - 
-    author: Bill
-    date: 2021-10-13
-    summary: "I added some comments, and fixed some typos."
-  - 
-    author: Pete
-    date: 2021-10-12
-    summary: "page created; I cobbled it together from various mattermost and other comments"
----
-```
+    ---
+    page-history: 
+    
+      - author: Bill
+        date: 2021-10-13
+        summary: "I added some comments, and fixed some typos."
+      - author: Pete
+        date: 2021-10-12
+        summary: "page created; I cobbled it together from various mattermost and other comments"
+    ---
