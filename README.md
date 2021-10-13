@@ -6,6 +6,11 @@ Or maybe the wiki _is_ conversations.  One of those. :-)
 
 There is a [[Sandbox]] page if you need to try stuff out.
 
+## Ways To Wiki Here
+
+- [[Page History in YAML Frontmatter]]
+- [[Adding a Comment to a Page]]
+
 ## People
 
 - [[Bill Anderson]]
