@@ -8,6 +8,10 @@ page-history:
     author: Pete
     date: 2021-10-12
     summary: "page created from Mattermost posts"
+  -
+  	author: Bill
+	date: 2021-10-14
+	summary: "fixed typos; added acronym annotation"
 ---
 # Conversations and Knowledge, Fast and Slow
 
@@ -50,11 +54,11 @@ Thanks Pete for these provocative thoughts. Lauren and Charles did some fantasti
 
 i daresay the imperative is the DKR-NIC with IF sprinkled liberally
 
-dynamic knowledge repository  networked improvement community  interoperability flow — values/ patterns of collaboration 
+dynamic knowledge repository(DKR)  networked improvement community(NIC)  interoperability flow(IF) — values/ patterns of collaboration 
 
 [Hank wrote](https://chat.collectivesensecommons.org/agora/pl/qr3sjujipfb7igjg7pzbbm1kdh),
 
-Very thought provoking conversation starting up here. I absolutely agree with ypou, Pete, when you say, " we would learn more and think more together, by doing it ourselves, rather than depending on an external specialist to do it for us". And lots of us are doing it in different ways. We only have to bring this collective eperience into our 'commons'. visual facilitation, as Ken writes, is a very powerful tool. The Positive Cartography process I am co-developing is based on using visual images to help people tell their stories - and doing it on Miro. Miro may not be the best platform for mapping relationships between ideas and perspectives, but it it easy to use (no big learning curve) and does the job sufficiently to start with. I can share some of our work in progress here - and later. For example, the photo I just oploaded as the Miro board seeded with photos for late September's Mapathon 21. And this past week, somehing similar for a workshop on Futures of Sustainable business with Norwegin entrepreneurs etc.
+Very thought provoking conversation starting up here. I absolutely agree with you, Pete, when you say, " we would learn more and think more together, by doing it ourselves, rather than depending on an external specialist to do it for us". And lots of us are doing it in different ways. We only have to bring this collective eperience into our 'commons'. visual facilitation, as Ken writes, is a very powerful tool. The Positive Cartography process I am co-developing is based on using visual images to help people tell their stories - and doing it on Miro. Miro may not be the best platform for mapping relationships between ideas and perspectives, but it it easy to use (no big learning curve) and does the job sufficiently to start with. I can share some of our work in progress here - and later. For example, the photo I just oploaded as the Miro board seeded with photos for late September's Mapathon 21. And this past week, somehing similar for a workshop on Futures of Sustainable business with Norwegin entrepreneurs etc.
 
 ![[/_attachments/Mapathon 21 Start Template.png]]
 
