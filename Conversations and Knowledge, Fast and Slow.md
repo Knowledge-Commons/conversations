@@ -8,6 +8,14 @@ page-history:
     author: Pete
     date: 2021-10-12
     summary: "page created from Mattermost posts"
+  -
+  	author: Bill
+	date: 2021-10-14
+	summary: "fixed typos; added acronym annotation"
+  -
+  	author: Bill
+	date: 2021-10-15
+	summary: "commented on some of Pete's thoughts"
 ---
 # Conversations and Knowledge, Fast and Slow
 
@@ -50,11 +58,11 @@ Thanks Pete for these provocative thoughts. Lauren and Charles did some fantasti
 
 i daresay the imperative is the DKR-NIC with IF sprinkled liberally
 
-dynamic knowledge repository  networked improvement community  interoperability flow — values/ patterns of collaboration 
+dynamic knowledge repository(DKR)  networked improvement community(NIC)  interoperability flow(IF) — values/ patterns of collaboration 
 
 [Hank wrote](https://chat.collectivesensecommons.org/agora/pl/qr3sjujipfb7igjg7pzbbm1kdh),
 
-Very thought provoking conversation starting up here. I absolutely agree with ypou, Pete, when you say, " we would learn more and think more together, by doing it ourselves, rather than depending on an external specialist to do it for us". And lots of us are doing it in different ways. We only have to bring this collective eperience into our 'commons'. visual facilitation, as Ken writes, is a very powerful tool. The Positive Cartography process I am co-developing is based on using visual images to help people tell their stories - and doing it on Miro. Miro may not be the best platform for mapping relationships between ideas and perspectives, but it it easy to use (no big learning curve) and does the job sufficiently to start with. I can share some of our work in progress here - and later. For example, the photo I just oploaded as the Miro board seeded with photos for late September's Mapathon 21. And this past week, somehing similar for a workshop on Futures of Sustainable business with Norwegin entrepreneurs etc.
+Very thought provoking conversation starting up here. I absolutely agree with you, Pete, when you say, " we would learn more and think more together, by doing it ourselves, rather than depending on an external specialist to do it for us". And lots of us are doing it in different ways. We only have to bring this collective eperience into our 'commons'. visual facilitation, as Ken writes, is a very powerful tool. The Positive Cartography process I am co-developing is based on using visual images to help people tell their stories - and doing it on Miro. Miro may not be the best platform for mapping relationships between ideas and perspectives, but it it easy to use (no big learning curve) and does the job sufficiently to start with. I can share some of our work in progress here - and later. For example, the photo I just oploaded as the Miro board seeded with photos for late September's Mapathon 21. And this past week, somehing similar for a workshop on Futures of Sustainable business with Norwegin entrepreneurs etc.
 
 ![[/_attachments/Mapathon 21 Start Template.png]]
 
@@ -145,5 +153,9 @@ I think that means that the conversation has to slow down, so the people perform
 I think that's not true; I think if we practice together, we be as productive, thoughtful, and spontaneous, and come out of conversations not just with a good feeling, but actual artifacts around which we can continue to remember, think, and evolve.
 
 I also know that practicing before we get good at it will feel unfamiliar, difficult, confusing, upsetting, and we'll wonder if it's even worth it.
+
+> (Bill) Pete has highlighted several ideas and practices that I want to re-enforce. First is the notion of "interactive knowledge creation", to led me to think of knowledge construction. We are trying to build some thing here that includes (1) some things that hang around, like wiki pages and (2) some practices we can explore, like "co-braining". Second is Pete's insight that our conversations will slow down. This will let us be more deliberate in taking actions, such as starting a new wiki, or of reaping a harvest from a collection of wiki pages or Mattermost or email posts. Third, and this just occurs to me, working this way will be supported my more conversations among several of us or between two. Incorporating the results of those interactions will be another practice to explore.
+
+
 
 Like learning and doing any technology -- playing the guitar, flying an airplane, drawing a portrait -- it takes time to get good at it. And some of us may never be great at a particular skill. But we can all aim for some literacy, some proficiency, at capturing and participating in technology-assisted knowledge, and I think it would reward us richly when we do.

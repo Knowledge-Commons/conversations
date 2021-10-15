@@ -10,7 +10,7 @@ This page contains some preliminary thinking by [[Bill Anderson]].
 
 2. First,"chunking": this is a term used in [[cog-sci]] to name the human mental work of putting ideas or text entities together under one category or in one place. Sometimes chunking requires breaking large items into smaller pieces; e.g., a large text document into separated sections, such as paragraphs, or even sentences or phrases.
 	  - are all chunking schemes hierarchical? (Need to explore [[Faceted classification]])
-	  - is tagging chunking? (Bill's friend [[Marty McGowan]] asserts that tags either name a collection or a property of an information item.)
+	  - is tagging chunking? (Bill's friend [Marty McGowan](http://alum.mit.edu/www/martymcgowan) asserts that tags either name a collection or a property of an information item.)
   
   3. Second,  "naming": in computer-based information systems every item needs a name. The computer system needs ways of representing the digital items so that they can be accessed and maintained over time. And in our lived experience we use names to enable sharing our experiences of the world with each other.
   	- all names are arbitrary and socially determined
