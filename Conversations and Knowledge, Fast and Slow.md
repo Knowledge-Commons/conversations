@@ -1,5 +1,13 @@
 ---
 page-history: 
+  -
+    author: Bill
+    date: 2021-10-15
+    summary: "commented on some of Pete's thoughts"
+  -
+    author: Bill
+    date: 2021-10-14
+    summary: "fixed typos; added acronym annotation"
   - 
     author: Pete
     date: 2021-10-13
@@ -8,14 +16,6 @@ page-history:
     author: Pete
     date: 2021-10-12
     summary: "page created from Mattermost posts"
-  -
-    author: Bill
-    date: 2021-10-14
-    summary: "fixed typos; added acronym annotation"
-  -
-    author: Bill
-    date: 2021-10-15
-    summary: "commented on some of Pete's thoughts"
 ---
 # Conversations and Knowledge, Fast and Slow
 
