@@ -16,8 +16,8 @@ _Note regarding: in the original wording, it's "22 di marzo 1508", but there's a
 
 ## References
 
-- https://repositorio.ul.pt/bitstream/10451/2732/306/ulsd059922_Tese.pdf (Italian text; and Portuguese translation, if you want!)
-- https://www.fromoldbooks.org/Richter-NotebooksOfLeonardo/section-1/item-4.html
+- <https://repositorio.ul.pt/bitstream/10451/2732/306/ulsd059922_Tese.pdf> (Italian text; and Portuguese translation, if you want!)
+- <https://www.fromoldbooks.org/Richter-NotebooksOfLeonardo/section-1/item-4.html>
 - [The notebooks of Leonardo da Vinci by Leonardo, da Vinci, 1452-1519; Richter, Jean Paul, 1847-1937, edt; Bell, R. C., Mrs., trl](https://archive.org/details/notebooksofleona01leon/page/12/mode/1up)
 - [Leonardo Da Vinci's Note-books. United Kingdom, Duckworth & Company, 1906.](https://www.google.com/books/edition/Leonardo_Da_Vinci_s_Note_books/uaUaAAAAYAAJ)
 - [Leonardo Da Vinci's Codex Arundel (Full Version)](http://www.bl.uk/turning-the-pages/?id=758caef0-a664-11db-8b3a-0050c2490048&type=book) (nice scan of original)
