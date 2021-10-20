@@ -15,7 +15,7 @@
 ### Intent for conversations wiki
 - real people use real conversations - make a more conversational wiki
 - currently we are adding to and commenting on pages
-- Bill and Pete put the matermost thread on the conversations wiki
+- Bill and Pete put the mattermost thread on the conversations wiki
 - use a block quote to do a comment so inline there are notes within notes
 
 Mark Carranza
@@ -41,8 +41,8 @@ Also wants to get to git branches and forks and folds
 problem with or new thing for the wiki
 Talk about what goes and does not
 PeteK - is starting to copy files from one wiki to another
-Yammel front matter so you have a page history - more conversational than git commits
+YAML front matter so you have a page history - more conversational than git commits
 
-Yammel - delimit it with --- so viewer knows whether to show it or not
+YAML - delimit it with --- so viewer knows whether to show it or not
 AND the static site generator Pete built does something similar
 
