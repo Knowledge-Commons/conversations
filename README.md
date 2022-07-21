@@ -52,4 +52,8 @@ Today, [[2021-09-01]], we're "doing wiki" on:
 
 "People have a public life, a private life, and a secret life".
 
-- (GABRIEL GARCÍA MÁRQUEZ famously told his biographer Gerald Martin: “Everyone has three lives: a public life, a private life, and a secret life.”)
+From "Gabriel García Márquez: A Life", by Gerald Martin, p. 198 in the 2010 paperback edition:
+
+> It was on that occasion that he would first tell me, with the expression on his face of an undertaker determinedly closing a coffin lid back down, that "everyone has three lives: a public life, a private life and a secret life."
+
+(It's not yet clear to this wiki if that was originally spoken in Spanish or English, "una vida pública, la vida privada y la secreta".)
