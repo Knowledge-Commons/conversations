@@ -1,0 +1,9 @@
+wiki_title: Conversations Wiki
+author: the Conversations Wiki people
+edit_url: https://github.com/Knowledge-Commons/conversations/edit/
+edit_branch: main
+repo: <a href="https://github.com/Knowledge-Commons/conversations">conversations</a>
+license: <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
+  4.0 International License</a>
+recent_changes_count: 5
+sidebar: Sidebar.md

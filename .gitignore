@@ -5,9 +5,22 @@
 *~
 \#*\#
 
+# Python
+__pycache__
+venv
+
+# Node
+node_modules
+
 # Obsidian.md
 .obsidian/*
 !.obsidian/README.md
 
 # Massive Wiki Builder
 .massivewikibuilder/output/*
+.massivewikibuilder/output*/*
+.nxc/output/*
+.nxc/output*/*
+
+# Local Netlify folder
+.netlify
